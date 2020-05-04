@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: qa.run.pages.IBasePage
+-------------------------------------------------------------------------------
+Tests run: 0, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.227 s - in qa.run.pages.IBasePage

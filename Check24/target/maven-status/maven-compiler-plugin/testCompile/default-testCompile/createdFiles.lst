@@ -1,0 +1,17 @@
+qa\models\Person.class
+qa\run\MyFirefoxDriver.class
+qa\run\pages\IBasePage$1.class
+qa\run\ScenarioModel.class
+qa\run\pages\BasicFunctions.class
+qa\models\Product.class
+qa\run\StepModel.class
+qa\run\FeatureModel.class
+qa\run\MyChromeDriver.class
+qa\run\pages\Check24.class
+qa\run\SerenityRuner.class
+qa\run\MyDriver.class
+qa\run\steps\check24Steps.class
+qa\run\ReadPropertiesFile.class
+qa\run\SerenityProperties.class
+qa\run\pages\IBasePage$2.class
+qa\run\pages\IBasePage.class
